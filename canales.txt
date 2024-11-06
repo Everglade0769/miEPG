@@ -17,7 +17,7 @@ AXN HD,AXN
 AMC HD,AMC
 Warner TV HD,Warner TV
 STAR Channel HD,STAR Channel
-SkyShowtime,SkyShowtime
+SkyShowtime,SkyShowtime 1
 SyFy HD,SyFy
 Calle 13 HD,Calle 13
 Cosmo HD,Cosmo
