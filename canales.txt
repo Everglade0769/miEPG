@@ -54,6 +54,7 @@ Boing,Boing
 Baby TV,Baby TV
 MTV España,MTV España
 MTV 00s,MTV 00s
+Sol Música,Sol Música
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live
 Classica HD,Classica
