@@ -1,2 +1,29 @@
-La 1 HD,La 1 HD
+La 1 HD,La 1
 La 2,La 2
+Antena 3 HD,Antena 3
+Cuatro HD,Cuatro
+Telecinco HD,Telecinco
+La Sexta HD,La Sexta
+La 7 Murcia,La 7 Región de Murcia
+Canal Sur HD,Canal Sur
+CMM TV,CMM TV
+À Punt,À Punt
+TVG,TVG
+Canal Extremadura,Extremadura
+Telemadrid,Telemadrid
+24 Horas,24 Horas
+M+ Series HD,M+ Series
+AXN HD,AXN
+AMC HD,AMC
+Warner TV HD,Warner TV
+STAR Channel HD,STAR Channel
+SkyShowtime,SkyShowtime
+SyFy HD,SyFy
+Calle 13 HD,Calle 13
+Cosmo HD,Cosmo
+Energy,Energy
+Factoría de Ficción,Factoría de Ficción
+Neox,Neox
+Nova,Nova
+Divinity,Divinity
+Atreseries,Atreseries
