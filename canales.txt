@@ -27,3 +27,20 @@ Neox,Neox
 Nova,Nova
 Divinity,Divinity
 Atreseries,Atreseries
+M+ Cine HD,M+ Cine
+M+ Acción HD,M+ Acción
+M+ Drama HD,M+ Drama
+M+ Comedia HD,M+ Comedia
+M+ Indie HD,M+ Indie
+M+ Clásicos HD,M+ Clásicos
+M+ Cine Español,M+ Cine Español
+TCM HD,TCM
+Canal Hollywood HD,Hollywood
+XTRM,XTRM
+AXN Movies HD,AXN Movies
+Sundance TV,Sundance TV
+DARK,DARK
+Somos,Somos
+Be Mad,Be Mad
+Paramount Network,Paramount Network
+BOM Cine,BOM Cine
