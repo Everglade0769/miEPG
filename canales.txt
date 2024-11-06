@@ -63,6 +63,7 @@ Historia,Historia
 Discovery,Discovery
 Odisea,Odisea
 Movistar Plus+ HD,Movistar Plus+
+Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
 M+ Elecciones EE.UU.,M+ Especiales
 La Resistencia 24H,La Resistencia 24H
@@ -82,3 +83,16 @@ Onetoro,Onetoro
 Torolé TV,Torolé TV
 TRECE,TRECE
 Negocios TV,Negocios TV
+M+ Vamos HD,M+ Vamos
+M+ Ellas Vamos HD,M+ Ellas Vamos
+M+ Golf HD,M+ Golf
+Teledeporte,Teledeporte
+Eurosport 1 HD,Eurosport 1
+Eurosport 2,Eurosport 2
+M+ Deportes HD,M+ Deportes
+M+ Deportes 2 HD,M+ Deportes 2
+M+ Deportes 3,M+ Deportes 3
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
