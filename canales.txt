@@ -44,3 +44,15 @@ Somos,Somos
 Be Mad,Be Mad
 Paramount Network,Paramount Network
 BOM Cine,BOM Cine
+Disney Channel HD,Disney Channel
+Disney Junior,Disney Junior
+Nick JR,Nick JR
+Nickelodeon HD,Nickelodeon
+Dreamworks HD,Dreamworks
+Clan,Clan
+Boing,Boing
+Baby TV,Baby TV
+MTV España,MTV España
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live
+Classica HD,Classica
