@@ -96,3 +96,8 @@ M+ Deportes 4,M+ Deportes 4
 M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
+DAZN 1 HD,DAZN 1
+DAZN 2 HD,DAZN 2
+DAZN 3 HD,DAZN 3
+DAZN 4 HD,DAZN 4
+DAZN F1 HD,DAZN F1
